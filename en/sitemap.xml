@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://holasoyeddy.com/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/tags/ipsum/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/code/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/tags/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/tags/code/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://holasoyeddy.com/es/blog/startup-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://holasoyeddy.com/blog/startup-ipsum/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://holasoyeddy.com/blog/no-date/</loc>
+  </url>
+  
+</urlset>
