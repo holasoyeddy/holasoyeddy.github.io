@@ -3,132 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://holasoyeddy.com/blog/</loc>
+    <loc>https://holasoyeddy.github.io/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/blog/"
+                href="https://holasoyeddy.github.io/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/blog/"
+                href="https://holasoyeddy.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/blog/hipster-ipsum/</loc>
+    <loc>https://holasoyeddy.github.io/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://holasoyeddy.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://holasoyeddy.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://holasoyeddy.com/tags/ipsum/</loc>
+    <loc>https://holasoyeddy.github.io/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/tags/ipsum/"
+                href="https://holasoyeddy.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/tags/ipsum/"
+                href="https://holasoyeddy.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/tags/</loc>
+    <loc>https://holasoyeddy.github.io/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/tags/"
+                href="https://holasoyeddy.github.io/es/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/tags/"
+                href="https://holasoyeddy.github.io/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/tags/words/</loc>
+    <loc>https://holasoyeddy.github.io/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/tags/words/"
+                href="https://holasoyeddy.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/tags/words/"
+                href="https://holasoyeddy.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/tags/code/</loc>
+    <loc>https://holasoyeddy.github.io/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://holasoyeddy.github.io/es/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://holasoyeddy.github.io/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://holasoyeddy.github.io/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/tags/code/"
+                href="https://holasoyeddy.github.io/es/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/tags/code/"
+                href="https://holasoyeddy.github.io/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/blog/startup-ipsum/</loc>
+    <loc>https://holasoyeddy.github.io/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://holasoyeddy.com/es/blog/startup-ipsum/"
+                href="https://holasoyeddy.github.io/es/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://holasoyeddy.com/blog/startup-ipsum/"
+                href="https://holasoyeddy.github.io/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/tags/coffee/</loc>
+    <loc>https://holasoyeddy.github.io/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/blog/coffee-ipsum/</loc>
+    <loc>https://holasoyeddy.github.io/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/tags/images/</loc>
+    <loc>https://holasoyeddy.github.io/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://holasoyeddy.com/blog/no-date/</loc>
+    <loc>https://holasoyeddy.github.io/blog/no-date/</loc>
   </url>
   
 </urlset>
