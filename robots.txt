@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://holasoyeddy.com/sitemap.xml
-Host: https://holasoyeddy.com
+Sitemap: https://www.holasoyeddy.com/sitemap.xml
+Host: https://www.holasoyeddy.com
