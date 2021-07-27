@@ -1,48 +1,527 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eddy Rubio's Personal Blog]]></title><description><![CDATA[I'm a bilingual and passionate software engineer. I write about stuff I build.]]></description><link>https://www.holasoyeddy.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Oct 2020 00:56:06 GMT</lastBuildDate><item><title><![CDATA[Hello, World!]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://www.holasoyeddy.com/posts/a-brief-introduction-to-react-js</link><guid isPermaLink="false">https://www.holasoyeddy.com/posts/a-brief-introduction-to-react-js</guid><pubDate>Fri, 02 Oct 2020 03:02:14 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
-&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Blog by Eddy Rubio]]></title><description><![CDATA[I am a passionate software engineer with a lot of opinions.]]></description><link>https://holasoyeddy.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 27 Jul 2021 02:43:24 GMT</lastBuildDate><item><title><![CDATA[Things Nobody Told Me About Being a Software Engineer]]></title><description><![CDATA[I remember my first year as a software engineer back in 2016. I was working for a digital marketing agency and thought I was ready to take on the world. I had just graduated, I had several freelance projects on my portfolio and had a decent GPA. I was pretty sure I knew everything I needed to be a decent software engineer. Boy, was I wrong.]]></description><link>https://holasoyeddy.com/posts/things-nobody-told-me-about-being-a-software-engineer</link><guid isPermaLink="false">https://holasoyeddy.com/posts/things-nobody-told-me-about-being-a-software-engineer</guid><pubDate>Mon, 26 Jul 2021 01:05:33 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/d9c39/image-2.jpg&quot;
+    href=&quot;/static/390b9139b4b4a889aeb408e3b4e1e2f3/df51d/1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQDBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABcM/eo0Rh/8QAGRABAAMBAQAAAAAAAAAAAAAAAgADEhEh/9oACAEBAAEFAjlnBU8lTWq32dn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAEAAgEFAAAAAAAAAAAAAAABAAIxEBESIVH/2gAIAQEABj8C5E7qMxCo7DmNfNP/xAAcEAACAgIDAAAAAAAAAAAAAAAAARExIZFRYXH/2gAIAQEAAT8hZapqxb5GGEmhKlDsTIPXJI//2gAMAwEAAgADAAAAEJff/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFhcVGB/9oACAEBAAE/EG8qwB3xlcg84p/SVmIdI/yiRxrn3uMjslt+LjlWT//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/8ac56/image-2.webp 240w,
-/static/0249a8579cfb4088acaf23fcac068444/d3be9/image-2.webp 480w,
-/static/0249a8579cfb4088acaf23fcac068444/e46b2/image-2.webp 960w,
-/static/0249a8579cfb4088acaf23fcac068444/f992d/image-2.webp 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/62ed8/image-2.webp 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/09b79/image-2.jpg 240w,
-/static/0249a8579cfb4088acaf23fcac068444/7cc5e/image-2.jpg 480w,
-/static/0249a8579cfb4088acaf23fcac068444/6a068/image-2.jpg 960w,
-/static/0249a8579cfb4088acaf23fcac068444/644c5/image-2.jpg 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/d9c39/image-2.jpg 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/0249a8579cfb4088acaf23fcac068444/6a068/image-2.jpg&quot;
-          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+          &lt;source
+              srcset=&quot;/static/390b9139b4b4a889aeb408e3b4e1e2f3/8ac56/1.webp 240w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/d3be9/1.webp 480w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/e46b2/1.webp 960w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/f992d/1.webp 1440w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/882b9/1.webp 1920w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/46261/1.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/390b9139b4b4a889aeb408e3b4e1e2f3/09b79/1.jpg 240w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/7cc5e/1.jpg 480w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/6a068/1.jpg 960w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/644c5/1.jpg 1440w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/0f98f/1.jpg 1920w,
+/static/390b9139b4b4a889aeb408e3b4e1e2f3/df51d/1.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/390b9139b4b4a889aeb408e3b4e1e2f3/6a068/1.jpg&quot;
+            alt=&quot;By Charles Deluvio on Unsplash&quot;
+            title=&quot;By Charles Deluvio on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. &lt;/p&gt;
-&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h1 id=&quot;introduction&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#introduction&quot; aria-label=&quot;introduction permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I remember my first year as a software engineer back in 2016. I was working for a digital marketing agency and thought I was ready to take on the world. I had just graduated, I had several freelance projects in my portfolio and had a decent GPA. I was pretty sure I knew everything I needed to be a decent software engineer. Boy, was I wrong.&lt;/p&gt;
+&lt;p&gt;As you’ll soon come to find out, not everything is writing code and drinking coffee. &lt;strong&gt;The purpose of this article is not to scare you, but rather let you know about certain things nobody tells you during your first year as a software engineer.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; Whether you’re a fresh-faced intern or a seasoned veteran in Software Engineering, I hope you can find some value in this article.&lt;/p&gt;
+&lt;h1 id=&quot;nobody-cares-about-your-grades&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#nobody-cares-about-your-grades&quot; aria-label=&quot;nobody cares about your grades permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nobody Cares About Your Grades&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e1c16a03135324ccbe3c8061842cf7fb/df51d/2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAV7jRFbx5P/EABkQAAIDAQAAAAAAAAAAAAAAAAECABESEP/aAAgBAQABBQLKiKoXmmsEwGp//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAWEAEBAQAAAAAAAAAAAAAAAAABICH/2gAIAQEABj8C1a//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMVFhcf/aAAgBAQABPyFztDIwqpToP0wtDKnJ/9oADAMBAAIAAwAAABDbH//EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oACAEDAQE/EMjeaP/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAgEBPxClwUu//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFBYf/aAAgBAQABPxAIYYO/X55lK1J1yV44uaVIVzJYIfVe4gR1L+u//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e1c16a03135324ccbe3c8061842cf7fb/8ac56/2.webp 240w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/d3be9/2.webp 480w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/e46b2/2.webp 960w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/f992d/2.webp 1440w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/882b9/2.webp 1920w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/46261/2.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e1c16a03135324ccbe3c8061842cf7fb/09b79/2.jpg 240w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/7cc5e/2.jpg 480w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/6a068/2.jpg 960w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/644c5/2.jpg 1440w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/0f98f/2.jpg 1920w,
+/static/e1c16a03135324ccbe3c8061842cf7fb/df51d/2.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e1c16a03135324ccbe3c8061842cf7fb/6a068/2.jpg&quot;
+            alt=&quot;By Element5 Digital on Unsplash&quot;
+            title=&quot;By Element5 Digital on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So, you turned in every assignment, you ace’d every test and you were the the teacher’s pet in every class at college. Guess what? &lt;strong&gt;Nobody cares.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While some companies may take your GPA into consideration (if it’s good enough), &lt;strong&gt;your grades will rarely be a deciding factor during the hiring process.&lt;/strong&gt; They don’t care if you were able to retain information for 6 hours before a big test or if you had a lot of time to do homework and were able to turn in every assignment with an A+ grade.&lt;/p&gt;
+&lt;p&gt;What they do care about is how you think. &lt;strong&gt;How do you solve problems? What do you do when you get stuck? Do you understand the requirements for the job? Have you done something like this before? How do you approach learning a new skill?&lt;/strong&gt; These are the type of things that matter. Outside of school, &lt;strong&gt;it’s all about what you know and what you can do.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s more important that you actually understand how to use Data Structures and Algorithms rather than just memorizing the time and space complexity of your favorite data structures. If you’re a student and are reading this article, don’t worry so much about your grades. &lt;strong&gt;Worry about actually understanding the material that is being presented to you.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If I knew this before I graduated, it would have saved me &lt;strong&gt;&lt;em&gt;A LOT&lt;/em&gt;&lt;/strong&gt; of stress.&lt;/p&gt;
+&lt;h1 id=&quot;you-will-get-rejected&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-will-get-rejected&quot; aria-label=&quot;you will get rejected permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;You Will Get Rejected&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9b5fbe16ef45a80a1fa00be3685ce8fc/df51d/3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAaB5KARpmb//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDExES/9oACAEBAAEFAosssXt2wNHtJnZI/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAICAwAAAAAAAAAAAAAAAAAxARARQaH/2gAIAQEABj8CI1gdvh//xAAcEAADAAEFAAAAAAAAAAAAAAAAAREhMVFhgaH/2gAIAQEAAT8hXNR9D2BJx+SPFYhgwpRuOJ2P/9oADAMBAAIAAwAAABA/L//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxAxf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxAVsLf/xAAbEAEBAQEAAwEAAAAAAAAAAAABESEAMWGx0f/aAAgBAQABPxCNnO1bUrtWTnaBPf8AOGIorBgnn72lBbWcLQLcF7//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/9b5fbe16ef45a80a1fa00be3685ce8fc/8ac56/3.webp 240w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/d3be9/3.webp 480w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/e46b2/3.webp 960w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/f992d/3.webp 1440w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/882b9/3.webp 1920w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/46261/3.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/9b5fbe16ef45a80a1fa00be3685ce8fc/09b79/3.jpg 240w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/7cc5e/3.jpg 480w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/6a068/3.jpg 960w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/644c5/3.jpg 1440w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/0f98f/3.jpg 1920w,
+/static/9b5fbe16ef45a80a1fa00be3685ce8fc/df51d/3.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/9b5fbe16ef45a80a1fa00be3685ce8fc/6a068/3.jpg&quot;
+            alt=&quot;By Steve Johnson on Unsplash&quot;
+            title=&quot;By Steve Johnson on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So, you just graduated and you’re sending your resume to every big tech company you can find. You already have a few interviews lined up with Google and Facebook, or whatever tech company is trending at the time that you read this article. You’ve studied up on Data Structures and Algorithms and are totally ready to wow the engineer during the technical interview.&lt;/p&gt;
+&lt;p&gt;If you did get an offer, congratulations. You deserve it.&lt;/p&gt;
+&lt;p&gt;But guess what? &lt;strong&gt;Chances are you’re not going to get the job offer. And that’s okay.&lt;/strong&gt; This could be because you don’t have enough experience/knowledge for that position. Or it might be due to a circumstance completely unrelated to you.&lt;/p&gt;
+&lt;p&gt;You should be comfortable with being rejected. Most companies will allow you to apply again after about a year (unless you did something horribly unforgiveable, like yelling at your interviewer). &lt;strong&gt;This is the perfect time to evaluate yourself and continue sharpening your skills.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This isn’t meant to discourage and you should continue applying for the jobs you want. The failed interview is a learning opportunity. While you (most likely) won’t get explicit feedback from the engineer on what you did right and what you did wrong, &lt;strong&gt;you should take the time to understand where you felt uncomfortable, what gaps you found in your knowledge during the process and what you can do to improve.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Introspection is the catalist of improvement. Not only in software engineering, but in life.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;you-will-make-mistakes&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-will-make-mistakes&quot; aria-label=&quot;you will make mistakes permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;You Will Make Mistakes&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/782c1df6a52b93046fe655aec1d4a81b/0f98f/4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6md8i0qJ/8QAGhABAAMBAQEAAAAAAAAAAAAAAQACAxMEEf/aAAgBAQABBQLTTnD0/bCMcq2txzgBP//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGn/8QAGhAAAwADAQAAAAAAAAAAAAAAAAEREiEycf/aAAgBAQAGPwLliWMXpUV05ItH/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARQVEhcf/aAAgBAQABPyE6Wl6QnLGsA2CdI6d3l+QDD9gNIOE//9oADAMBAAIAAwAAABDAz//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/EIP/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QNL//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRcZH/2gAIAQEAAT8QTrZxgPLhFWZ1j5BK3pLGXQRfC8JRNw7LKGToKJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/782c1df6a52b93046fe655aec1d4a81b/8ac56/4.webp 240w,
+/static/782c1df6a52b93046fe655aec1d4a81b/d3be9/4.webp 480w,
+/static/782c1df6a52b93046fe655aec1d4a81b/e46b2/4.webp 960w,
+/static/782c1df6a52b93046fe655aec1d4a81b/f992d/4.webp 1440w,
+/static/782c1df6a52b93046fe655aec1d4a81b/882b9/4.webp 1920w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/782c1df6a52b93046fe655aec1d4a81b/09b79/4.jpg 240w,
+/static/782c1df6a52b93046fe655aec1d4a81b/7cc5e/4.jpg 480w,
+/static/782c1df6a52b93046fe655aec1d4a81b/6a068/4.jpg 960w,
+/static/782c1df6a52b93046fe655aec1d4a81b/644c5/4.jpg 1440w,
+/static/782c1df6a52b93046fe655aec1d4a81b/0f98f/4.jpg 1920w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/782c1df6a52b93046fe655aec1d4a81b/6a068/4.jpg&quot;
+            alt=&quot;By Brett Jordan on Unsplash&quot;
+            title=&quot;By Brett Jordan on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Senior devs, junior devs, frontend devs, backend devs. We all have one thing in common. &lt;strong&gt;We’re human and humans make mistakes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;That Sr. Software Engineer on your team that seems to know everything? Probably brought down the production server more than once. That Database Admin you respect so much? He’s probably deleted critical data at one point of his career.&lt;/p&gt;
+&lt;p&gt;In my first year as a developer, &lt;strong&gt;I accidentally introduced a bug into our code that ended up giving away 500+ Samsung A5 smartphones for free.&lt;/strong&gt; I just made our small agency lose about $200,000 USD. My heart sunk while I thought about searching LinkedIn for a new job.&lt;/p&gt;
+&lt;p&gt;We quickly rolled back the code and apologized for the inconvenience. Our client was furious, my colleagues poked fun at me and my friends still bring it up at parties. &lt;strong&gt;But I was never fired. I was barely reprimanded.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During your junior tenure, you will most likely be very worried about making a mistake that will bring down the production environment or cause some sort of damage to the platform. As you should. &lt;/p&gt;
+&lt;p&gt;However, on a long enough timeline of writings lines and lines of code, countless deployments to production and rushed database queries, you’re going to make a mistake sooner or later..and that’s okay. &lt;strong&gt;The important thing is that you recognize your mistake, look for a solution rather than someone to blame and come up with a way to avoid it from happening again.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;In my case, I learned the importance of writing unit tests for my code.&lt;/p&gt;
+&lt;h1 id=&quot;burnout-is-a-real-thing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#burnout-is-a-real-thing&quot; aria-label=&quot;burnout is a real thing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Burnout Is a Real Thing&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6a8d06c68133261978cdbdb090abd169/df51d/5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAYtMtnwQDf/EABcQAQEBAQAAAAAAAAAAAAAAAAEAERD/2gAIAQEAAQUCnNerf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAQEBAQEAAAAAAAAAAAAAAAEAMREh/9oACAEBAAE/ITLIPYCxd29L/9oADAMBAAIAAwAAABCn3//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QzjA5f//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QuoqP/8QAGhABAQEAAwEAAAAAAAAAAAAAAREAITFhcf/aAAgBAQABPxCSDILhAvil1Q5sMK/WQ67/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/6a8d06c68133261978cdbdb090abd169/8ac56/5.webp 240w,
+/static/6a8d06c68133261978cdbdb090abd169/d3be9/5.webp 480w,
+/static/6a8d06c68133261978cdbdb090abd169/e46b2/5.webp 960w,
+/static/6a8d06c68133261978cdbdb090abd169/f992d/5.webp 1440w,
+/static/6a8d06c68133261978cdbdb090abd169/882b9/5.webp 1920w,
+/static/6a8d06c68133261978cdbdb090abd169/46261/5.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/6a8d06c68133261978cdbdb090abd169/09b79/5.jpg 240w,
+/static/6a8d06c68133261978cdbdb090abd169/7cc5e/5.jpg 480w,
+/static/6a8d06c68133261978cdbdb090abd169/6a068/5.jpg 960w,
+/static/6a8d06c68133261978cdbdb090abd169/644c5/5.jpg 1440w,
+/static/6a8d06c68133261978cdbdb090abd169/0f98f/5.jpg 1920w,
+/static/6a8d06c68133261978cdbdb090abd169/df51d/5.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/6a8d06c68133261978cdbdb090abd169/6a068/5.jpg&quot;
+            alt=&quot;By Gift Habeshaw on Unsplash&quot;
+            title=&quot;By Gift Habeshaw on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Burnout is a funny thing. &lt;strong&gt;You never realize you’re burning out until you hit rock-bottom.&lt;/strong&gt; This is caused by excessive and prolonged stress. Overworking, not taking breaks or spending every minute of every hour looking up the latest framework that is popular that week and trying to master it out of fear of being irrelevant in this industry.&lt;/p&gt;
+&lt;p&gt;Next thing you know you’re sleeping 2 hours a day and working weekends. You start waking up irritable, work meetings become arguments and
+you hate being alive. You’re wondering why you ever chose to be a software developer in the first place. Maybe your uncle will still give you a job helping him sell time shares.&lt;/p&gt;
+&lt;p&gt;This is what burnout feels like. &lt;strong&gt;And you’re never too young to experience it.&lt;/strong&gt; Some people may have a larger threshold for stress, but they too will succumb to it once they reach that limit. We are not robots.&lt;/p&gt;
+&lt;p&gt;You should take breaks from coding every now and then. Explore other interests completely unrelated to programming,make sure you get enough sleep, make time for friends, family or simply activities you enjoy doing. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Having a healthy work-life balance is important and will make a huge difference in how much and how fast you progress as a software engineer.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;you-werent-hired-to-write-code-you-were-hired-to-solve-problems&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-werent-hired-to-write-code-you-were-hired-to-solve-problems&quot; aria-label=&quot;you werent hired to write code you were hired to solve problems permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;You Weren’t Hired to Write Code. You Were Hired to Solve Problems.&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0eb7db95cd0f50a71850666455d6869a/df51d/6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGTY63I4mP/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIQESEj/9oACAEBAAEFAlBI1SFLjk//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8BhX//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGn/8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAIQIRcf/aAAgBAQAGPwK8xKZ7pf/EABoQAAMAAwEAAAAAAAAAAAAAAAABETFBYZH/2gAIAQEAAT8hSeFCyptdQ8jGqVmuFn//2gAMAwEAAgADAAAAEBzP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEJJHV3/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QEJtl/8QAHBABAAICAwEAAAAAAAAAAAAAAQARIUEQMZGh/9oACAEBAAE/ELdeC3KhG0A90fITpGCULmo3oWHvB//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/0eb7db95cd0f50a71850666455d6869a/8ac56/6.webp 240w,
+/static/0eb7db95cd0f50a71850666455d6869a/d3be9/6.webp 480w,
+/static/0eb7db95cd0f50a71850666455d6869a/e46b2/6.webp 960w,
+/static/0eb7db95cd0f50a71850666455d6869a/f992d/6.webp 1440w,
+/static/0eb7db95cd0f50a71850666455d6869a/882b9/6.webp 1920w,
+/static/0eb7db95cd0f50a71850666455d6869a/46261/6.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/0eb7db95cd0f50a71850666455d6869a/09b79/6.jpg 240w,
+/static/0eb7db95cd0f50a71850666455d6869a/7cc5e/6.jpg 480w,
+/static/0eb7db95cd0f50a71850666455d6869a/6a068/6.jpg 960w,
+/static/0eb7db95cd0f50a71850666455d6869a/644c5/6.jpg 1440w,
+/static/0eb7db95cd0f50a71850666455d6869a/0f98f/6.jpg 1920w,
+/static/0eb7db95cd0f50a71850666455d6869a/df51d/6.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/0eb7db95cd0f50a71850666455d6869a/6a068/6.jpg&quot;
+            alt=&quot;By Olav Ahrens Røtne on Unsplash&quot;
+            title=&quot;By Olav Ahrens Røtne on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I used to hate the “business” side of things at work. &lt;strong&gt;Working out time frames for releases, explaining to product designers that the new feature that they’re requesting is not possible or simply having to update managers with daily e-mails in regards to progress.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, for better or for worse, &lt;strong&gt;this is all part of the job description.&lt;/strong&gt; You’re not just some code monkey that translates instructions into code. &lt;strong&gt;You’re an engineer that has to build solutions that solve problems.&lt;/strong&gt; And building these solutions requires more work than just sitting in front of a text editor for 8 hours (although, you’ll probably do just that on some days).&lt;/p&gt;
+&lt;p&gt;As a software engineer, your job is not to write code in a specific language. &lt;strong&gt;Your job is to fix the problem with the tools you have at your disposal.&lt;/strong&gt; Your client most likely does not care if you used Flask instead of Django, if you’re using the latest version of Angular to write your code or if you used spaces instead of tabs. &lt;strong&gt;They just care that the task gets done.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;dont-specialize-yet&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#dont-specialize-yet&quot; aria-label=&quot;dont specialize yet permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Don’t Specialize (Yet)&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7d19af27e514c5831879d212c573fd18/df51d/7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAUazFGkcmV//xAAZEAEBAQEBAQAAAAAAAAAAAAACAwEAERP/2gAIAQEAAQUCdNm/vRc7GemXm3Rl1Gm//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAwEBAAMAAAAAAAAAAAAAAAECERIhMkH/2gAIAQEABj8CiYbUiTeeTKPZi5idf1nVPWf/xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMVFh/9oACAEBAAE/IRuDiBcIrPxLjztS8NO8/eMwKU/0mVKTf//aAAwDAQACAAMAAAAQvw//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCH/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QWf/EAB0QAAIDAAIDAAAAAAAAAAAAAAERACExQWFRgcH/2gAIAQEAAT8QDhc5A6cCFDnI63q/UFYi7ArHyOVgUM3ll2JW5ICwcrkxWkLxdAcCf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/7d19af27e514c5831879d212c573fd18/8ac56/7.webp 240w,
+/static/7d19af27e514c5831879d212c573fd18/d3be9/7.webp 480w,
+/static/7d19af27e514c5831879d212c573fd18/e46b2/7.webp 960w,
+/static/7d19af27e514c5831879d212c573fd18/f992d/7.webp 1440w,
+/static/7d19af27e514c5831879d212c573fd18/882b9/7.webp 1920w,
+/static/7d19af27e514c5831879d212c573fd18/46261/7.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/7d19af27e514c5831879d212c573fd18/09b79/7.jpg 240w,
+/static/7d19af27e514c5831879d212c573fd18/7cc5e/7.jpg 480w,
+/static/7d19af27e514c5831879d212c573fd18/6a068/7.jpg 960w,
+/static/7d19af27e514c5831879d212c573fd18/644c5/7.jpg 1440w,
+/static/7d19af27e514c5831879d212c573fd18/0f98f/7.jpg 1920w,
+/static/7d19af27e514c5831879d212c573fd18/df51d/7.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/7d19af27e514c5831879d212c573fd18/6a068/7.jpg&quot;
+            alt=&quot;By Carl Heyerdahl on Unsplash&quot;
+            title=&quot;By Carl Heyerdahl on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I remember when I was looking at job postings. Do I wanna be Java Developer or a .NET Developer? Should I do front-end development or back-end development? I was hired as a “.NET Developer” for my first software engineering job. I would get angry when my job required working with Javascript, managing databases or helping out another team that has an entirely different tech stack. &lt;/p&gt;
+&lt;p&gt;While you’re main activities will most likely be in a specific tech stack, &lt;strong&gt;you should not be afraid to venture into using new programming languages or tools.&lt;/strong&gt; I started out hating Javascript. Now, I love it. Hell, this website was built using &lt;strong&gt;Gatsby.js&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You will soon learn that programming languages and frameworks are just tools.&lt;/strong&gt; Not only that, but you will come to realize that you can pretty much do anything in any programming language. For the most part, they all have similar features. &lt;/p&gt;
+&lt;p&gt;Have you ever met a plumber that ONLY works with a hammer? Didn’t think so. The same applies to software engineering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you specialize in a single tool when starting out, you limit the tools at your disposal.&lt;/strong&gt; That doesn’t mean you shouldn’t become really good at Java or a specific framework of choice, but that should not be your first priority. Once you have explored various tools, you can choose one the ones that makes sense to specialize in. But for now, &lt;strong&gt;play around with different things and figure out which tools work for which problems and which tools you prefer to work with.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do not limit your toolbox.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;sometimes-good-enough-is-better-than-perfect&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#sometimes-good-enough-is-better-than-perfect&quot; aria-label=&quot;sometimes good enough is better than perfect permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sometimes, “Good Enough” is Better Than “Perfect”&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/61c7b818332ebea59971c47fe861f550/df51d/8.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAd1iaMOTnxf/xAAcEAACAgIDAAAAAAAAAAAAAAABAgMEABESExT/2gAIAQEAAQUCVtnrRsEUJCWW4Pccr6Tr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERAiESMTL/2gAIAQEABj8CkK8Tyh59tHGQWlo//8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFBUaH/2gAIAQEAAT8h3KVpixEsuXpLcDBz1HQF+SYxbS5//9oADAMBAAIAAwAAABAHD//EABgRAAIDAAAAAAAAAAAAAAAAAAABESGB/9oACAEDAQE/EFKVmn//xAAYEQACAwAAAAAAAAAAAAAAAAAAIRExUf/aAAgBAgEBPxBTQsP/xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhMXGBocH/2gAIAQEAAT8QvEIWnE5Eq7VYUPtWfZXEgzBrOeZUrtLKhDG6pxer+z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/61c7b818332ebea59971c47fe861f550/8ac56/8.webp 240w,
+/static/61c7b818332ebea59971c47fe861f550/d3be9/8.webp 480w,
+/static/61c7b818332ebea59971c47fe861f550/e46b2/8.webp 960w,
+/static/61c7b818332ebea59971c47fe861f550/f992d/8.webp 1440w,
+/static/61c7b818332ebea59971c47fe861f550/882b9/8.webp 1920w,
+/static/61c7b818332ebea59971c47fe861f550/46261/8.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/61c7b818332ebea59971c47fe861f550/09b79/8.jpg 240w,
+/static/61c7b818332ebea59971c47fe861f550/7cc5e/8.jpg 480w,
+/static/61c7b818332ebea59971c47fe861f550/6a068/8.jpg 960w,
+/static/61c7b818332ebea59971c47fe861f550/644c5/8.jpg 1440w,
+/static/61c7b818332ebea59971c47fe861f550/0f98f/8.jpg 1920w,
+/static/61c7b818332ebea59971c47fe861f550/df51d/8.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/61c7b818332ebea59971c47fe861f550/6a068/8.jpg&quot;
+            alt=&quot;By Amélie Mourichon on Unsplash&quot;
+            title=&quot;By Amélie Mourichon on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you’re passionate about writing code, you’re probably a lot like me. You weigh every little detail and want to make sure everything runs as fast and smooth as it possibly can. Often, this means falling deep into the rabbit hole of investigating different technologies, investigating best practices and comparing all possible approaches against each other.&lt;/p&gt;
+&lt;p&gt;While this is often a good way to go about your craft, &lt;strong&gt;real life projects have deadlines and, sometimes, the best way to get some momentum going during development is by acheiving an MVP, or a Minimum Viable Product.&lt;/strong&gt; You should attempt to build an MVP to get the ball rolling and come back in further iterations to add more functionality and optimize performance. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As Winston Churchill once said, perfection is the enemy of progress.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;you-will-never-know-everything&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-will-never-know-everything&quot; aria-label=&quot;you will never know everything permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;You Will Never Know Everything&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1032e2ca2195119b02c266cd2fa138ff/df51d/9.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABzSmtZWBYb//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAgMREiH/2gAIAQEAAQUCidlB9jQUPTacaP8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAZEAADAAMAAAAAAAAAAAAAAAAAARAhMYH/2gAIAQEABj8C0JmZ2f/EABoQAQACAwEAAAAAAAAAAAAAAAEAESFRgaH/2gAIAQEAAT8hF35hUuGdU30rUEUxj6J//9oADAMBAAIAAwAAABCf7//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EEj/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qhr//xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUFh/9oACAEBAAE/EAKFrQDWi4GB4r9iDQAeJArZOTHZoF8bHosVlk//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1032e2ca2195119b02c266cd2fa138ff/8ac56/9.webp 240w,
+/static/1032e2ca2195119b02c266cd2fa138ff/d3be9/9.webp 480w,
+/static/1032e2ca2195119b02c266cd2fa138ff/e46b2/9.webp 960w,
+/static/1032e2ca2195119b02c266cd2fa138ff/f992d/9.webp 1440w,
+/static/1032e2ca2195119b02c266cd2fa138ff/882b9/9.webp 1920w,
+/static/1032e2ca2195119b02c266cd2fa138ff/46261/9.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1032e2ca2195119b02c266cd2fa138ff/09b79/9.jpg 240w,
+/static/1032e2ca2195119b02c266cd2fa138ff/7cc5e/9.jpg 480w,
+/static/1032e2ca2195119b02c266cd2fa138ff/6a068/9.jpg 960w,
+/static/1032e2ca2195119b02c266cd2fa138ff/644c5/9.jpg 1440w,
+/static/1032e2ca2195119b02c266cd2fa138ff/0f98f/9.jpg 1920w,
+/static/1032e2ca2195119b02c266cd2fa138ff/df51d/9.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1032e2ca2195119b02c266cd2fa138ff/6a068/9.jpg&quot;
+            alt=&quot;By Sigmund on Unsplash&quot;
+            title=&quot;By Sigmund on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You probably don’t know as much as you think you do…&lt;strong&gt;and that’s OK&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software engineering is an always-changing, never-stagnant field.&lt;/strong&gt; There are countless languages, tools, specializations and methodologies that currently exist that you most likely will never get to learn at a deep enough level to consider yourself a master in it. &lt;/p&gt;
+&lt;p&gt;Not only that, but the one’s you do know are constantly changing. The techniques we use today may be obsolete before lunch tomorrow. That’s why software products are usually built by teams, not individuals. &lt;strong&gt;The knowledge requirements for a product are usually covered by multiple engineers, each one with bits of knowledge that they can contribute to collaborate and teach the other engineers on their team.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Always keep an open and receptive mind when somebody else tries to teach you something, even if the other person is less experienced.&lt;/strong&gt; You’d be surprised at some key details or techniques that you might pick up. I was oblivious to the fact that we could use the &lt;code class=&quot;language-text&quot;&gt;Alt+Shift+Tab&lt;/code&gt; shortcut to shift back to a previous tab until a Jr. Developer pointed it out to me.&lt;/p&gt;
+&lt;h1 id=&quot;communication-is-important&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#communication-is-important&quot; aria-label=&quot;communication is important permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Communication Is Important&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1ba57f176137c24e75bddafd06e96390/df51d/10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABw6Nw80qI/8QAHBABAAIBBQAAAAAAAAAAAAAAAQIDBBITISIz/9oACAEBAAEFAierIsTai8Une7xKQP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAIABgMAAAAAAAAAAAAAAAABAgMQESExQVJx/9oACAEBAAY/AmupE78Um+jQs7P/xAAdEAACAgIDAQAAAAAAAAAAAAAAARExIUFRYXGh/9oACAEBAAE/IbgS47ZGzWyjdliHPDas12YLefSxkJo//9oADAMBAAIAAwAAABBTH//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QqZp//8QAFhEBAQEAAAAAAAAAAAAAAAAAACEx/9oACAECAQE/EMR//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBYZH/2gAIAQEAAT8QthDTquFvqFwgLb3kPqg9lLaQAU3socoQ+hs0BQ3xfif/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1ba57f176137c24e75bddafd06e96390/8ac56/10.webp 240w,
+/static/1ba57f176137c24e75bddafd06e96390/d3be9/10.webp 480w,
+/static/1ba57f176137c24e75bddafd06e96390/e46b2/10.webp 960w,
+/static/1ba57f176137c24e75bddafd06e96390/f992d/10.webp 1440w,
+/static/1ba57f176137c24e75bddafd06e96390/882b9/10.webp 1920w,
+/static/1ba57f176137c24e75bddafd06e96390/46261/10.webp 2400w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1ba57f176137c24e75bddafd06e96390/09b79/10.jpg 240w,
+/static/1ba57f176137c24e75bddafd06e96390/7cc5e/10.jpg 480w,
+/static/1ba57f176137c24e75bddafd06e96390/6a068/10.jpg 960w,
+/static/1ba57f176137c24e75bddafd06e96390/644c5/10.jpg 1440w,
+/static/1ba57f176137c24e75bddafd06e96390/0f98f/10.jpg 1920w,
+/static/1ba57f176137c24e75bddafd06e96390/df51d/10.jpg 2400w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1ba57f176137c24e75bddafd06e96390/6a068/10.jpg&quot;
+            alt=&quot;By Kaleidico on Unsplash&quot;
+            title=&quot;By Kaleidico on Unsplash&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In my experience, software engineering attracts a lot of quiet and/or introverted people. I think it has something to do with the fact that you can just zone out with a text editor and a terminal and come back 6 hours later with a finished product (albeit, not a great one), no human interaction required.&lt;/p&gt;
+&lt;p&gt;However, &lt;strong&gt;teamwork is more often than not the main difference between a nice, personal side project and a great, usable software product&lt;/strong&gt;. Unless you are a one-man, all-dancing, all-singing software development team (in which case, I pity your soul), you are most likely working with a team.&lt;/p&gt;
+&lt;p&gt;This is why communication skills are almost as important as technical skills when it comes to being a software engineer. &lt;strong&gt;You should be able to communicate abstract ideas and concepts to both low-level engineers and high-level, “non-techie”, business associates.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you can’t explain a concept in a way that even a layman can understand it, then you don’t understand that concept well enough.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;conclusion&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-label=&quot;conclusion permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;These are some of the things that I believe would have been helpful to find out earlier in my career rather than later. While these things may seem more obvious to experienced engineers, they don’t seem too obvious when you’re first starting out. I hope this information provides some insight and is helpful to your software development journey.&lt;/p&gt;</content:encoded></item></channel></rss>
